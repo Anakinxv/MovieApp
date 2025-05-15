@@ -22,4 +22,9 @@ dist-ssr
 *.ntvs*
 *.njsproj
 *.sln
-*.sw?
+*.sw?.env*
+*.local
+node_modules/
+.env*
+*.local
+node_modules/
